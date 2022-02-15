@@ -2,7 +2,7 @@ body {
   margin: 0;
 }
 header {
-  background-color: #373738;
+  background-color: #000000;
   padding: 15px;
 }
 header ul {
@@ -16,6 +16,14 @@ header li {
 header p {
   display: inline-block;
 }
+#tcLogo {
+  max-width: 100px;
+}
+
+#tcProfile{
+  max-width: 150px;
+}
+
 .heroImg {
   background-color: #EBEBEB;
   padding: 100px 15px;
